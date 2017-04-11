@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sibin\.android\build-cache\f15e4e6f31b25935d210bd0752fb019896a90804\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\Sibin\.android\build-cache\1ca9ebc67ebb0feee6cd2a6318dc4fb5b44d16c0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Sibin\.android\build-cache\ab9194f4ba77d9474a092a7c9bafd559f50e3a08\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Sibin\.android\build-cache\5e78559bdb7a1b9f52921fceb2c04d65b13d6081\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Sibin\.android\build-cache\e028380533e240a1d7aeb48dde0fad960591755b\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Sibin\.android\build-cache\6b8fcca2ce4f4a0c4e74b72fbd7c8b4c8a550e52\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Sibin\.android\build-cache\f9b56d132a422a9d47d352f0cfe45fe3069743fd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sibin\.android\build-cache\551ea85f206f0533bf9cbcc700005d95d286cbaf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Sibin\.android\build-cache\9d8cafe914c80b04ef001e101ecc595a105d99ce\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sibin\.android\build-cache\9f617ecdfd78802188b5bbbe59f87c51897ab767\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Sibin\.android\build-cache\919c47455f742c245e3ba70f387d2becc6288299\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Sibin\.android\build-cache\69571625af37ea55447a7d0c45e0d3471f374d35\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Sibin\.android\build-cache\d2fc1d8ddd9ad810071fbba3efa7f16758aadbf2\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:13:9-39
+activity#com.example.sibin.getaway.MainActivity
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.sibin.getaway.list
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:21:9-22:57
+	android:parentActivityName
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:21:19-39
+activity#com.example.sibin.getaway.desc
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:23:9-24:47
+	android:theme
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:23:19-39
+activity#com.example.sibin.getaway.About
+ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:25:9-26:57
+	android:parentActivityName
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:26:13-55
+	android:name
+		ADDED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml:25:19-40
+uses-sdk
+INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sibin\.android\build-cache\f15e4e6f31b25935d210bd0752fb019896a90804\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\Sibin\.android\build-cache\1ca9ebc67ebb0feee6cd2a6318dc4fb5b44d16c0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Sibin\.android\build-cache\ab9194f4ba77d9474a092a7c9bafd559f50e3a08\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Sibin\.android\build-cache\5e78559bdb7a1b9f52921fceb2c04d65b13d6081\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Sibin\.android\build-cache\e028380533e240a1d7aeb48dde0fad960591755b\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Sibin\.android\build-cache\27efdffc8c21190b60e51e1ac7b4e45d3e669d0b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Sibin\.android\build-cache\6b8fcca2ce4f4a0c4e74b72fbd7c8b4c8a550e52\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Sibin\.android\build-cache\f9b56d132a422a9d47d352f0cfe45fe3069743fd\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Sibin\.android\build-cache\551ea85f206f0533bf9cbcc700005d95d286cbaf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Sibin\.android\build-cache\9d8cafe914c80b04ef001e101ecc595a105d99ce\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Sibin\.android\build-cache\9f617ecdfd78802188b5bbbe59f87c51897ab767\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Sibin\.android\build-cache\919c47455f742c245e3ba70f387d2becc6288299\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Sibin\.android\build-cache\69571625af37ea55447a7d0c45e0d3471f374d35\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Sibin\.android\build-cache\d2fc1d8ddd9ad810071fbba3efa7f16758aadbf2\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Sibin\.android\build-cache\1ca9ebc67ebb0feee6cd2a6318dc4fb5b44d16c0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sibin\AndroidStudioProjects\Getaway\app\src\main\AndroidManifest.xml

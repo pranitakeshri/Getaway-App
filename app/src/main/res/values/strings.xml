@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Getaway</string>
+    <string name="about_app">Getaway provides a simple way to choose the destination for a trip.  Simply select
+    the kind of trip you are planning and Getaway will provide you with a list of places matching your preference.
+      You can also read a small description of the place you are visiting to make sure you don\'t miss anything.  Presently
+    the app supports only places that are in and around Bangalore.  Future updates will add more places.</string>
+    <string name="ver">Version 1.0</string>
+</resources>
